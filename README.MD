@@ -15,7 +15,7 @@
 | 2   | 23520044 |   Hà Tuấn Anh |  Thành viên |          [tuananhpa](https://github.com/tuananhpa) | 23520044@gm.uit.edu.vn |
 | 3   | 23520655 | Võ Tạ Hữu Huy |  Thành viên | [NickKurriyama](https://github.com/NickKurriyama1) | 23520655@gm.uit.edu.vn |
 
-## 🙋🏼 Đồ án: Phân lọai phân khúc khách hàng (Customer Segmentation Classification)
+## 🙋🏼 Đồ án: Phân loại phân khúc khách hàng (Customer Segmentation Classification)
 
 Đồ án này nhằm xây dựng một hệ thống Machine Learning để dự đoán phân khúc khách hàng dựa trên một số thông tin cá nhân như độ tuổi, kinh nghiệm làm việc, tình trạng hôn nhân, v.v. Dữ liệu được lấy từ nền tảng Kaggle.
 
